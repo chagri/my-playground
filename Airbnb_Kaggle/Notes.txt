@@ -1,0 +1,10 @@
+1. In data file: 
+  	label: date_first_booking and find correlation with each:
+	
+		a. year created
+		b. year first active
+		c. gender, age, 
+		d. platform: device, browser,
+		e. source: FB etc.
+
+2. 
